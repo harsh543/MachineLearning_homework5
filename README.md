@@ -16,7 +16,9 @@ Here I will describe the major functions used to perform the analysis,details ca
 
 Using the above methods of Scikit learn and tuning parameters as per dataset.I have performed analysis on development data.I have achieved accuracy of about 68%.I have computed Area under ROC Curve and Log Loss .Basis of the fact that strongly correlated fact with the target set will predict values better.I had also carried out several visualization analysis to support my assumption of these strongly related values and I chose them and got accuracy and calculated  RMSE.The decision boundary for both classifier is smooth and it well separates the data.More graphs and results analysis can be seen in the notebook.
 <a>Running instructions</a><br/>
-Download/clone repo to local computer
+Download/clone repo to local computer<br/>
+Run all calees in Notebook selecting Kernel click Cells and run all<br/>
+Then take python file by going to specific folder enter YoungPeopleSurveySpendingHealthy.py. or take the link below.
 <br/>
 Take dataset from link or as neccessary and then execute noteboook in a sequence of cells.
 Link to Data Files:
